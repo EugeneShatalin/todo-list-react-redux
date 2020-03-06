@@ -1,6 +1,5 @@
 import React from "react";
 
-
 class TodoListTasks extends React.Component {
     render = () => {
         return (
@@ -25,4 +24,6 @@ class TodoListTasks extends React.Component {
         );
     }
 }
+
+export default TodoListTasks;
 
